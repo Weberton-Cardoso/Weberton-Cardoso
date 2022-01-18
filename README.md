@@ -3,7 +3,7 @@
 Gosto de aprender coisas novas e estou sempre pronto para desafios,
 quero muito trabalhar na area de dados !!!
 
-Skills: https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg/ https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg / https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg/
+Skills: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 - 🌱 I’m currently learning Analise de dados, Machine learn 
 - 🤔 I’m looking for help with Oportunidade de emprego 

@@ -3,7 +3,7 @@
 Gosto de aprender coisas novas e estou sempre pronto para desafios,
 quero muito trabalhar na area de dados !!!
 
-Skills: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+Skills: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pythonjs/python-original.svg" />
 
 - 🌱 I’m currently learning Analise de dados, Machine learn 
 - 🤔 I’m looking for help with Oportunidade de emprego 

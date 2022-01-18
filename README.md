@@ -4,6 +4,7 @@ Gosto de aprender coisas novas e estou sempre pronto para desafios,
 quero muito trabalhar na area de dados !!!
 
 Skills: <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Rafa-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 - 🌱 I’m currently learning Analise de dados, Machine learn 
 - 🤔 I’m looking for help with Oportunidade de emprego 

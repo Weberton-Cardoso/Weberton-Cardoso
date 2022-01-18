@@ -14,3 +14,9 @@ Skills: <img align="center" alt="Rafa-Python" height="30" width="40" src="https:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/weberton-cardoso/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/weberton.c/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://api.whatsapp.com/send?phone=5532988122307&text=Ol%C3%A1%20vim%20pelo%20seu%20Github)  
 
+<div align="center">
+  <a href="https://github.com/Weberton-Cardoso/Weberton-Cardoso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Weberton-Cardoso&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weberton-Cardoso&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>

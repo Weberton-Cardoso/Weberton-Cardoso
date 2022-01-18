@@ -5,7 +5,7 @@ quero muito trabalhar na area de dados !!!
 
 Skills: <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Rafa-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Rafa-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/gh/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
+<img align="center" alt="Rafa-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
 
 - 🌱 I’m currently learning Analise de dados, Machine learn 
 - 🤔 I’m looking for help with Oportunidade de emprego 

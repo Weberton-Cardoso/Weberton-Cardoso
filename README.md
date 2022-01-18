@@ -1,20 +1,14 @@
-<h1 align="center">Oi 👋, eu sou Weberton Cardoso</h1>
-<h3 align="center">Sou estudante de Ciência de dados</h3>
+### Hi there 👋, Weberton Cardoso
+#### Sou estudante de Ciência de dados
+Gosto de aprender coisas novas e estou sempre pronto para desafios,
+quero muito trabalhar na area de dados !!!
 
-- 🌱 Atualmente estou aprendendo **Analise de dados , Aprendizado de máquina, SQL**
+Skills: PYTHON/ SQL / PANDAS/
 
-- 📫 Como entrar em contato comigo **webertoncardoso4@hotmail.com**
+- 🌱 I’m currently learning Analise de dados, Machine learn 
+- 🤔 I’m looking for help with Oportunidade de emprego 
+- 📫 How to reach me: webertoncardoso4@hotmail.com 
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href= "https://linkedin.com/in/weberton-cardoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/linked-in-alt.svg" alt="weberton-cardoso" height="30" width="40" /></a>
-<a href="https://instagram.com/webertoncardoso.c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/instagram.svg" alt="webertoncardoso.c" height="30" width="40" /></a>
-</p>
 
-<h3 align="left ">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python. org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" largura ="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weberton-cardoso&show_icons=true&locale=en&layout=compact" alt="weberton-cardoso" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=weberton-cardoso&show_icons=true&locale=en" alt="weberton-cardoso" /> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/weberton-cardoso/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/weberton.c/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://api.whatsapp.com/send?phone=5532988122307&text=Ol%C3%A1%20vim%20pelo%20seu%20Github)  
 

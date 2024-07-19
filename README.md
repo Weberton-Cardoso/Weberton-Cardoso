@@ -1,5 +1,5 @@
 ### Oi👋, meu nome é Weberton Cardoso
-#### Sou estudante de #Ciência de dados
+#### Sou #Cientista de dados
 Gosto de aprender coisas novas e estou sempre pronto para desafios,
 quero muito trabalhar na area de dados !!!
 

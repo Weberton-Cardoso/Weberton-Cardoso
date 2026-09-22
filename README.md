@@ -7,7 +7,7 @@ Skills: <img align="center" alt="Rafa-Python" height="30" width="40" src="https:
 <img align="center" alt="Rafa-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
 <img align="center" alt="Rafa-Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg">
 
-- 🌱 I’m currently learning Analise de dados, Machine learning 
+- 🌱 "Atuo no desenvolvimento de soluções analíticas, modelos de Machine Learning e automação de processos utilizando Python e SQL." 
 - 🤔 I’m looking for help with Oportunidade de emprego em Ciência de dados
 - 📫 How to reach me: webertoncardoso4@hotmail.com 
 
